@@ -1,2 +1,5 @@
 # predicting-medical-costs-r
-classification, random forest 
+
+Prediciting medical costs using classification and random forest. 
+
+[Data source link](https://www.kaggle.com/mirichoi0218/insurance)
