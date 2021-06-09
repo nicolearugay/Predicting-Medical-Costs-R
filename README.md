@@ -1,4 +1,4 @@
-# predicting-medical-costs-r
+# Predicting-Medical-Costs-R
 
 Predicting medical costs using classification and random forest. 
 
